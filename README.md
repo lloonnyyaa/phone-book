@@ -21,5 +21,5 @@ DELETE /api/users/{id} - Delete contact by id
 4. $ php bin/console doctrine:schema:create
 
 ## testing
-You can test the application by url of the domain on which the application is deployed or via postman.
-temporally testing link: https://cloud.php-dev.pp.ua/
+You can test the application by url of the domain on which the application is deployed or via postman. 
+Temporally testing link: https://cloud.php-dev.pp.ua/
